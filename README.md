@@ -1,4 +1,4 @@
-# backdrop
+# Basic backdrop component
 
 This code contains a basic backdrop panel example, the new Material Component.
 
@@ -9,6 +9,6 @@ For help getting started with Flutter, view the online
 
 ## Screens
 
-[gif](..master/preview_images/backdrop_preview.gif)
+![screen](../master/preview_images/backdrop_preview.gif)
 
 
